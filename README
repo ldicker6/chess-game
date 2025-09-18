@@ -22,14 +22,11 @@ Developed collaboratively as a team project. See **Contributions** below for det
 
 Below is an example of gameplay. The move shown is **E2 to E4**, known as the *King’s Pawn Opening* — the most common opening in chess.
 
-![Chess Demo 1](docs/demo1.png)  
-
-![Alt text](docs/demo1.png?raw=true "Optional Title")
-
-![Chess Demo 2](docs/demo2.png)
+![Chess Demo 1](https://raw.githubusercontent.com/ldicker6/chess-game/main/docs/demo1.png)
 
 ---
 
 ## File Structure
+
 
 
