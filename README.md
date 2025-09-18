@@ -56,7 +56,7 @@ make
 
 System design overview:
 
-![UML Diagram](https://raw.githubusercontent.com/ldicker6/chess-game/main/chessUML.pdf)
+![UML Diagram](https://raw.githubusercontent.com/ldicker6/chess-game/main/docs/chessUMLdiagram.png)
 
 ---
 
@@ -76,6 +76,7 @@ This project was developed collaboratively as part of a team.
 
 - Add AI opponent (minimax or heuristic-based search)
 - Implement move history tracking with undo/redo functionality
+
 
 
 
